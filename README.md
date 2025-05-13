@@ -57,11 +57,13 @@ The analysis followed a structured approach using Excel and Power BI to transfor
 # Dashboard
 ## Sales
 <img width="468" alt="Picture2" src="https://github.com/user-attachments/assets/3d1a528a-9ff4-4ef2-8767-0d59fdeac024" />
-<img width="468" alt="Picture1" src="https://github.com/user-attachments/assets/dd3db82b-8bae-4adc-bb9b-52988640d8c2" />
+<img width="859" alt="sale" src="https://github.com/user-attachments/assets/b7cb6531-7ca1-4c8b-b3a0-901ab7e03af6" />
+
 
 ## Logistic
-![Picture5](https://github.com/user-attachments/assets/fe165d7b-f148-484a-be6b-b9919ea74f69)
-![Picture6](https://github.com/user-attachments/assets/3df84628-4c5f-4736-89d8-12ff2d83733e)
+<img width="934" alt="logistic1" src="https://github.com/user-attachments/assets/d30987ba-4a69-44c5-a2ab-e09090c7fea8" />
+<img width="949" alt="Logistic" src="https://github.com/user-attachments/assets/986f1645-4f75-462f-9205-a9dde01c42e1" />
+
 
 
 
